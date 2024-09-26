@@ -1,2 +1,2 @@
-# View-Soni-Cube-Evaluation
-Evaluation data and analysis notebooks for the paper "Interactive Multimodal Integral Field Spectroscopy"
+# View[Soni]Cube Evaluation
+Results from the evalution for the paper "Interactive Multimodal Integral Field Spectroscopy" by A. García Riber, R. García-Benito, and F. Serradilla
