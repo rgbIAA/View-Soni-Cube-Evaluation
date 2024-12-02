@@ -5,4 +5,4 @@ This repository contains evaluation results for the paper **"Interactive Multimo
 Adrián García Riber, Rubén García-Benito, Francisco Serradilla. *Interactive multimodal Integral Field Spectroscopy*, RAS Techniques and Instruments, 2024,
 [https://doi.org/10.1093/rasti/rzae049](https://doi.org/10.1093/rasti/rzae049)
 
-Raw Data from the evaluation data is provided in the file `ViewCube_survey.csv`.
+Raw data from the evaluation is provided in the file `ViewCube_survey.csv`.
